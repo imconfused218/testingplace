@@ -1,2 +1,0 @@
-# testingplace
-Created with CodeSandbox
